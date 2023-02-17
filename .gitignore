@@ -1,0 +1,7 @@
+.idea
+venv
+
+input_image_heic/*.heic
+input_image_heic/*.HEIC
+output_image_png
+already_converted_images
